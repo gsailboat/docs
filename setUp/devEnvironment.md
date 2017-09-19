@@ -94,4 +94,6 @@ If frontend, install the [React Developer Tools](https://chrome.google.com/webst
 
 Clone the current repo you will be working with.  See Brian, Jordan, or Matt for the password/username.
 
+Continue to runningALocalInstance.md in this same GitHub folder for further instructions for running Stroll's different demos.
+
 ![alt text](http://imgs.xkcd.com/comics/identity.png "Your password")
